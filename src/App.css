@@ -23,6 +23,15 @@
   color: #61dafb;
 }
 
+.memory {
+  display: flex;
+  flex-wrap: wrap;
+  width: 700px;
+  height: 700px;
+  margin: auto;
+  user-select: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
